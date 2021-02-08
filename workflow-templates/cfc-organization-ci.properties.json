@@ -1,0 +1,13 @@
+{
+    "name": "Call for Code Organization Workflow",
+    "description": "Call for Code Organization CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
