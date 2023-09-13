@@ -1,4 +1,4 @@
-## Hello, World! :wave:
+# Hello, World! :wave:
 
 Welcome to the Call for Code organization on GitHub where we love all things tech-for-good and open source that makes an impact.
 
